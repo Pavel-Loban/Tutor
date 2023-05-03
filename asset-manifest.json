@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pavel-Loban/Tutor/static/css/main.120e02e9.css",
-    "main.js": "/Pavel-Loban/Tutor/static/js/main.70283d4f.js",
+    "main.js": "/Pavel-Loban/Tutor/static/js/main.16b5c47a.js",
     "static/media/selectUp.svg": "/Pavel-Loban/Tutor/static/media/selectUp.ccc91d44b9a8893060d825aa9965fea6.svg",
     "static/media/insta.svg": "/Pavel-Loban/Tutor/static/media/insta.7de1c62ae1c7d3070b3db60e8d69d73d.svg",
     "static/media/tile2.svg": "/Pavel-Loban/Tutor/static/media/tile2.dad3c371257107eb984908de374d17ea.svg",
@@ -25,10 +25,10 @@
     "static/media/arrow-right.svg": "/Pavel-Loban/Tutor/static/media/arrow-right.4d927a1b90077ddafb1175b1cec5babd.svg",
     "static/media/CheckOk.svg": "/Pavel-Loban/Tutor/static/media/CheckOk.f8ad084261815f5a72395119b8099c37.svg",
     "main.120e02e9.css.map": "/Pavel-Loban/Tutor/static/css/main.120e02e9.css.map",
-    "main.70283d4f.js.map": "/Pavel-Loban/Tutor/static/js/main.70283d4f.js.map"
+    "main.16b5c47a.js.map": "/Pavel-Loban/Tutor/static/js/main.16b5c47a.js.map"
   },
   "entrypoints": [
     "static/css/main.120e02e9.css",
-    "static/js/main.70283d4f.js"
+    "static/js/main.16b5c47a.js"
   ]
 }
